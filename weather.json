@@ -1,0 +1,45 @@
+{
+   "base" : "stations",
+   "clouds" : {
+      "all" : 8
+   },
+   "cod" : 200,
+   "coord" : {
+      "lat" : 50.399999999999999,
+      "lon" : 30.5
+   },
+   "dt" : 1674405227,
+   "id" : 703447,
+   "main" : {
+      "feels_like" : 273.23000000000002,
+      "humidity" : 90,
+      "pressure" : 1033,
+      "temp" : 273.23000000000002,
+      "temp_max" : 273.23000000000002,
+      "temp_min" : 273.23000000000002
+   },
+   "name" : "Kyiv",
+   "sys" : {
+      "country" : "UA",
+      "id" : 2003742,
+      "sunrise" : 1674366368,
+      "sunset" : 1674397944,
+      "type" : 2
+   },
+   "timezone" : 7200,
+   "visibility" : 10000,
+   "weather" : [
+      {
+         "description" : "clear sky",
+         "icon" : "01n",
+         "id" : 800,
+         "main" : "Clear"
+      }
+   ],
+   "wind" : {
+      "deg" : 346,
+      "gust" : 2.2400000000000002,
+      "speed" : 0.45000000000000001
+   }
+}
+
