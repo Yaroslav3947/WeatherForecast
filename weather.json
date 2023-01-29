@@ -1,45 +1,45 @@
 {
    "base" : "stations",
    "clouds" : {
-      "all" : 8
+      "all" : 100
    },
    "cod" : 200,
    "coord" : {
-      "lat" : 50.399999999999999,
-      "lon" : 30.5
+      "lat" : 49.838299999999997,
+      "lon" : 24.023199999999999
    },
-   "dt" : 1674405227,
-   "id" : 703447,
+   "dt" : 1675019164,
+   "id" : 702550,
    "main" : {
-      "feels_like" : 273.23000000000002,
-      "humidity" : 90,
-      "pressure" : 1033,
-      "temp" : 273.23000000000002,
-      "temp_max" : 273.23000000000002,
-      "temp_min" : 273.23000000000002
+      "feels_like" : 265.70999999999998,
+      "grnd_level" : 985,
+      "humidity" : 77,
+      "pressure" : 1021,
+      "sea_level" : 1021,
+      "temp" : 270.64999999999998,
+      "temp_max" : 270.64999999999998,
+      "temp_min" : 270.64999999999998
    },
-   "name" : "Kyiv",
+   "name" : "Lviv",
    "sys" : {
       "country" : "UA",
-      "id" : 2003742,
-      "sunrise" : 1674366368,
-      "sunset" : 1674397944,
-      "type" : 2
+      "sunrise" : 1674972105,
+      "sunset" : 1675005117
    },
    "timezone" : 7200,
    "visibility" : 10000,
    "weather" : [
       {
-         "description" : "clear sky",
-         "icon" : "01n",
-         "id" : 800,
-         "main" : "Clear"
+         "description" : "overcast clouds",
+         "icon" : "04n",
+         "id" : 804,
+         "main" : "Clouds"
       }
    ],
    "wind" : {
-      "deg" : 346,
-      "gust" : 2.2400000000000002,
-      "speed" : 0.45000000000000001
+      "deg" : 261,
+      "gust" : 7.96,
+      "speed" : 4.1200000000000001
    }
 }
 
