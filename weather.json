@@ -8,38 +8,38 @@
       "lat" : 49.838299999999997,
       "lon" : 24.023199999999999
    },
-   "dt" : 1675019164,
+   "dt" : 1675078887,
    "id" : 702550,
    "main" : {
-      "feels_like" : 265.70999999999998,
-      "grnd_level" : 985,
-      "humidity" : 77,
-      "pressure" : 1021,
-      "sea_level" : 1021,
-      "temp" : 270.64999999999998,
-      "temp_max" : 270.64999999999998,
-      "temp_min" : 270.64999999999998
+      "feels_like" : 267.08999999999997,
+      "grnd_level" : 972,
+      "humidity" : 64,
+      "pressure" : 1008,
+      "sea_level" : 1008,
+      "temp" : 273.32999999999998,
+      "temp_max" : 273.32999999999998,
+      "temp_min" : 273.32999999999998
    },
    "name" : "Lviv",
    "sys" : {
       "country" : "UA",
-      "sunrise" : 1674972105,
-      "sunset" : 1675005117
+      "sunrise" : 1675058426,
+      "sunset" : 1675091618
    },
    "timezone" : 7200,
    "visibility" : 10000,
    "weather" : [
       {
          "description" : "overcast clouds",
-         "icon" : "04n",
+         "icon" : "04d",
          "id" : 804,
          "main" : "Clouds"
       }
    ],
    "wind" : {
-      "deg" : 261,
-      "gust" : 7.96,
-      "speed" : 4.1200000000000001
+      "deg" : 229,
+      "gust" : 13.48,
+      "speed" : 7.9100000000000001
    }
 }
 
